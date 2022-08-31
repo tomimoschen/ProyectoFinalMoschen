@@ -2,7 +2,7 @@
 const products = document.querySelector(".productos_container");
 const cartItems = document.querySelector(".cart-items");
 const resumen = document.querySelector(".resumen");
-const data = "../data.json" 
+const data = "./data.json" 
 
 // PRINT PRODUCTOS
 function renderProducts() {
