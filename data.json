@@ -1,0 +1,100 @@
+[
+    {
+        "id": 201,
+        "name": "Argentina",
+        "kit": "home",
+        "price": "100",
+        "img": "../assets/selecciones/argentina.webp",
+        "brand": "adidas"
+    },
+    {
+        "id": 202,
+        "name": "Brasil",
+        "kit": "home",
+        "price": "90",
+        "img": "../assets/selecciones/brasil.webp",
+        "brand": "nike"
+    },
+    {
+        "id": 203,
+        "name": "Ghana",
+        "kit": "home",
+        "price": "90",
+        "img": "../assets/selecciones/ghana.webp",
+        "brand": "puma"
+        
+    },
+    {
+        "id": 204,
+        "name": "Camerún",
+        "kit": "home",
+        "price": "90",
+        "img": "../assets/selecciones/camerun.webp",
+        "brand": "le coq"
+    },
+    {
+        "id": 205,
+        "name": "Inglaterra",
+        "kit": "home",
+        "price": 90,
+        "img": "../assets/selecciones/england.webp",
+        "brand": "nike"
+    },
+    {
+        "id": 206,
+        "name": "México",
+        "kit": "home",
+        "price": 90,
+        "img": "../assets/selecciones/mexico.webp",
+        "brand": "adidas"
+    },
+    {
+        "id": 207,
+        "name": "Uruguay",
+        "kit": "home",
+        "price": 90,
+        "img": "../assets/selecciones/uruguay.webp",
+        "brand": "puma"
+    },
+    {
+        "id": 208,
+        "name": "Bélgica",
+        "kit": "home",
+        "price": 90,
+        "img": "../assets/selecciones/belgica.jpg",
+        "brand": "adidas"
+        
+    },
+    {
+        "id": 209,
+        "name": "España",
+        "kit": "away",
+        "price": 90,
+        "img": "../assets/selecciones/españa.jpg",
+        "brand": "adidas"
+    },
+    {
+        "id": 210,
+        "name": "Serbia",
+        "kit": "home",
+        "price": 90,
+        "img": "../assets/selecciones/serbia.webp",
+        "brand": "puma"
+    },
+    {
+        "id": 211,
+        "name": "Alemania",
+        "kit": "home",
+        "price": 90,
+        "img": "../assets/selecciones/alemania.jpg",
+        "brand": "adidas"
+    },
+    {
+        "id": 212,
+        "name": "Japón",
+        "kit": "away",
+        "price": 90,
+        "img": "../assets/selecciones/japon.jpg",
+        "brand": "adidas"
+    }
+]
