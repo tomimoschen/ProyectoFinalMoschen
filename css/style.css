@@ -83,7 +83,7 @@ nav ul li a{
 }
 
 .selecciones {
-  background-image: url(./assets/bgCards/bg.webp);
+  background-image: url(../assets/bgCards/bg.webp);
   background-size: 260vh;
   background-position: -45em;
 }

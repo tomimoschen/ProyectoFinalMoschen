@@ -4,7 +4,7 @@
         "name": "Argentina",
         "kit": "home",
         "price": "100",
-        "img": "../assets/selecciones/argentina.webp",
+        "img": "./assets/selecciones/argentina.webp",
         "brand": "adidas"
     },
     {
@@ -12,7 +12,7 @@
         "name": "Brasil",
         "kit": "home",
         "price": "90",
-        "img": "../assets/selecciones/brasil.webp",
+        "img": "./assets/selecciones/brasil.webp",
         "brand": "nike"
     },
     {
@@ -20,7 +20,7 @@
         "name": "Ghana",
         "kit": "home",
         "price": "90",
-        "img": "../assets/selecciones/ghana.webp",
+        "img": "./assets/selecciones/ghana.webp",
         "brand": "puma"
         
     },
@@ -29,7 +29,7 @@
         "name": "Camerún",
         "kit": "home",
         "price": "90",
-        "img": "../assets/selecciones/camerun.webp",
+        "img": "./assets/selecciones/camerun.webp",
         "brand": "le coq"
     },
     {
@@ -37,7 +37,7 @@
         "name": "Inglaterra",
         "kit": "home",
         "price": 90,
-        "img": "../assets/selecciones/england.webp",
+        "img": "./assets/selecciones/england.webp",
         "brand": "nike"
     },
     {
@@ -45,7 +45,7 @@
         "name": "México",
         "kit": "home",
         "price": 90,
-        "img": "../assets/selecciones/mexico.webp",
+        "img": "./assets/selecciones/mexico.webp",
         "brand": "adidas"
     },
     {
@@ -53,7 +53,7 @@
         "name": "Uruguay",
         "kit": "home",
         "price": 90,
-        "img": "../assets/selecciones/uruguay.webp",
+        "img": "./assets/selecciones/uruguay.webp",
         "brand": "puma"
     },
     {
@@ -61,7 +61,7 @@
         "name": "Bélgica",
         "kit": "home",
         "price": 90,
-        "img": "../assets/selecciones/belgica.jpg",
+        "img": "./assets/selecciones/belgica.jpg",
         "brand": "adidas"
         
     },
@@ -70,7 +70,7 @@
         "name": "España",
         "kit": "away",
         "price": 90,
-        "img": "../assets/selecciones/españa.jpg",
+        "img": "./assets/selecciones/españa.jpg",
         "brand": "adidas"
     },
     {
@@ -78,7 +78,7 @@
         "name": "Serbia",
         "kit": "home",
         "price": 90,
-        "img": "../assets/selecciones/serbia.webp",
+        "img": "./assets/selecciones/serbia.webp",
         "brand": "puma"
     },
     {
@@ -86,7 +86,7 @@
         "name": "Alemania",
         "kit": "home",
         "price": 90,
-        "img": "../assets/selecciones/alemania.jpg",
+        "img": "./assets/selecciones/alemania.jpg",
         "brand": "adidas"
     },
     {
@@ -94,7 +94,7 @@
         "name": "Japón",
         "kit": "away",
         "price": 90,
-        "img": "../assets/selecciones/japon.jpg",
+        "img": "./assets/selecciones/japon.jpg",
         "brand": "adidas"
     }
 ]
